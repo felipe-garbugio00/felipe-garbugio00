@@ -50,10 +50,5 @@
 
 <br>
 
----
 
-### 🐍 Minhas Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/felipe-garbugio00/felipe-garbugio00/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+![snake gif](https://github.com/felipe-garbugio00/felipe-garbugio00/blob/output/github-snake-dark.svg)
