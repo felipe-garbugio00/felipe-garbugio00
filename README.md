@@ -1,9 +1,9 @@
 <img align="right" height="400" src="https://github.com/user-attachments/assets/c2eb69cf-1f21-4f70-a27e-9a2afd7744a1" alt="Meu GIF Animado" />
 
 # Eae, de boa? 👋
-**Sou o Felipe Garbugio, estudante de engenharia de software e amante da tecnologia.**
+*Sou o Felipe Garbugio, estudante de engenharia de software e amante da tecnologia.*
 
-### Sobre mim
+ Sobre mim
 - 🔭 Trabalho como auxiliar adminstrativo
 - 🌱 Aprendendo Python
 - 📫 Contate-me: garbugiofelipe@gmail.com
@@ -11,7 +11,6 @@
 
 <br>
 
----
 
 ### 💻 Tecnologias e Ferramentas
 
@@ -27,7 +26,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/felipe-garbugio00">
@@ -39,8 +37,6 @@
 <br>
 
 ---
-
-### 📱 Minhas Redes Sociais
 
 <div align="center">
   <a href="https://www.linkedin.com/in/felipegarbugio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
