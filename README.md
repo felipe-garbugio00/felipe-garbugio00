@@ -1,16 +1,59 @@
-## Hi there 👋
+<img align="right" height="400" src="https://github.com/user-attachments/assets/c2eb69cf-1f21-4f70-a27e-9a2afd7744a1" alt="Meu GIF Animado" />
 
-<!--
-**felipe-garbugio00/felipe-garbugio00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Eae, de boa? 👋
+**Sou o Felipe Garbugio, estudante de engenharia de software e amante da tecnologia.**
 
-Here are some ideas to get you started:
+### Sobre mim
+- 🔭 Trabalho como auxiliar adminstrativo
+- 🌱 Aprendendo Python
+- 📫 Contate-me: garbugiofelipe@gmail.com
+- 😄 Pronomes: Ele/dele
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+---
+
+### 💻 Tecnologias e Ferramentas
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+<br>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/felipe-garbugio00">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-garbugio00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-garbugio00&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+<br>
+
+---
+
+### 📱 Minhas Redes Sociais
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/felipegarbugio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/fegarbugio_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:garbugiofelipe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+<br>
+
+---
+
+### 🐍 Minhas Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/felipe-garbugio00/felipe-garbugio00/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
