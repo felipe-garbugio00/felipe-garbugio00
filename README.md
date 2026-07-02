@@ -51,3 +51,5 @@
 
 
 ![Meu GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1ta3Fxa3A3ajIwbG45Ym1xNmhhZ3U4NmFjb3YzcDl4ZXRncG0wZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pyQ6BBV58OiNGv9KWU/giphy.gif)
+
+<p><img align="center" src="https://github-readme-stats.shion.dev/api?username=felipe-garbugio00&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></p>
